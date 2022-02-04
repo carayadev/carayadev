@@ -1,5 +1,5 @@
 # { CristianAraya }
-### Hi there, I'm Cristian Araya | carayadev
+### Hi there, I'm Cristian
 
 ## Informatics Engineer | Full Stack MERN Developer
 
