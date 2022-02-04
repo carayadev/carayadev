@@ -21,5 +21,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+## Examples of Work
+### <a href="https://mytinerary-coquimbo.herokuapp.com/">**MyTinerary** </a>
+A **travel itinerary** web app
+<a href="https://mytinerary-coquimbo.herokuapp.com/"><img src="https://res.cloudinary.com/dzocjqehm/image/upload/v1643993951/img_mytinerary_jbtkiv.png" ></a>
 
 
