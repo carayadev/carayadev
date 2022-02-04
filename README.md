@@ -19,3 +19,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+
+<br />
+
+## Examples of Work
+### <a href="https://mytinerary-coquimbo.herokuapp.com/">**MyTinerary** </a>
+A **travel itinerary** web app
+<a href="https://mytinerary-coquimbo.herokuapp.com/"><img src="https://i.imgur.com/ppmTTfQ.png" ></a>
+
