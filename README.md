@@ -23,10 +23,3 @@
 
 
 
-<br />
-
-## Examples of Work
-### <a href="https://mytinerary-coquimbo.herokuapp.com/">**MyTinerary** </a>
-A **travel itinerary** web app
-<a href="https://mytinerary-coquimbo.herokuapp.com/"><img src="https://i.imgur.com/ppmTTfQ.png" ></a>
-
