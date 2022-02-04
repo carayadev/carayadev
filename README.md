@@ -29,7 +29,7 @@ A **travel itinerary** web app
 
 <br />
 
-### <a href="https://xtreme-games.herokuapp.com/">**Extreme ** </a>
+### <a href="https://xtreme-games.herokuapp.com/">**Extreme** </a>
 A **An Ecommerce FullStack** web app
 <a href="https://mytinerary-coquimbo.herokuapp.com/"><img src="https://res.cloudinary.com/dzocjqehm/image/upload/v1644003415/finalchallenge_j9byyl.png" ></a>
 
