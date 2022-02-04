@@ -1,4 +1,4 @@
-# Cristian Araya
+# const CristianAraya = () => {}
 ### Hi there, I'm Cristian Araya | carayadev
 
 ## Informatics Engineer | Full Stack MERN Developer
