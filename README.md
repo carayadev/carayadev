@@ -43,6 +43,6 @@ An **Ecommerce FullStack** web app
 <br />
 
 ###  <a href="https://res.cloudinary.com/dzocjqehm/video/upload/v1644085169/challenge-movil_fak8gp.webm">**Reloj Control Movile** </a>
-An **Ecommerce FullStack** movile app
+An **minibus control** movile app
 <a href="https://res.cloudinary.com/dzocjqehm/video/upload/v1644085169/challenge-movil_fak8gp.webm"><img src="https://res.cloudinary.com/dzocjqehm/image/upload/v1644105068/reloj-control_vqbngr.jpg"></a>
 
