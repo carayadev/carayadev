@@ -31,7 +31,7 @@ A **travel itinerary** web app
 
 ###  <a href="https://res.cloudinary.com/dzocjqehm/video/upload/v1644085169/challenge-movil_fak8gp.webm">**Extreme Movile** </a>
 An **Ecommerce FullStack** movile app
-<a href="https://res.cloudinary.com/dzocjqehm/video/upload/v1644085169/challenge-movil_fak8gp.webm"><img src="https://res.cloudinary.com/dzocjqehm/image/upload/v1644086161/challenge-final_uoazy5.jpg"></a>
+<a href="https://res.cloudinary.com/dzocjqehm/video/upload/v1644085169/challenge-movil_fak8gp.webm"><img src="https://res.cloudinary.com/dzocjqehm/image/upload/v1644087035/challenge-final_uktlr0.jpg"></a>
 
 
 <br />
