@@ -23,7 +23,7 @@
 
 
 ###  <a href="https://res.cloudinary.com/dzocjqehm/video/upload/v1644085169/challenge-movil_fak8gp.webm">**MyTinerary Movile** </a>
-An **Ecommerce FullStack** movile app
+A **travel itinerary** movile app
 <a href="https://res.cloudinary.com/dzocjqehm/video/upload/v1644085169/challenge-movil_fak8gp.webm"><img src="https://res.cloudinary.com/dzocjqehm/image/upload/v1645399982/imgMytineray_wkcbjo.jpg"></a>
 
 
