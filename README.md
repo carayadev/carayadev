@@ -21,15 +21,15 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br />
+
+## Examples of Work
 
 ###  <a href="https://res.cloudinary.com/dzocjqehm/video/upload/v1644085169/challenge-movil_fak8gp.webm">**MyTinerary Movile** </a>
 A **travel itinerary** movile app
 <a href="https://res.cloudinary.com/dzocjqehm/video/upload/v1644085169/challenge-movil_fak8gp.webm"><img src="https://res.cloudinary.com/dzocjqehm/image/upload/v1645399982/imgMytineray_wkcbjo.jpg"></a>
 
 
-<br />
-
-## Examples of Work
 ### <a href="https://mytinerary-coquimbo.herokuapp.com/">**MyTinerary** </a>
 A **travel itinerary** web app
 <a href="https://mytinerary-coquimbo.herokuapp.com/"><img src="https://res.cloudinary.com/dzocjqehm/image/upload/v1643993951/img_mytinerary_jbtkiv.png" ></a>
